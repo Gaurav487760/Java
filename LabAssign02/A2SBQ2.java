@@ -1,4 +1,4 @@
-package Inheritance;
+package LabAssign02;
 	class A2SBQ2  {
 	    String name;
 	    double salary;
@@ -38,3 +38,4 @@ package Inheritance;
 	        dev.displayDeveloperDetails();
 	    }
 	}
+
