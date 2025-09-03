@@ -1,4 +1,4 @@
-package LabAssign01.java;
+package LabAssign01;
 
 public class A1SBQ1 {
 private int num;  
@@ -61,3 +61,4 @@ private int num;
         number.display();
     }
 }
+
