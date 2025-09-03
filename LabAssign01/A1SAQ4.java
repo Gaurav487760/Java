@@ -1,4 +1,4 @@
-package LabAssign01.java;
+package LabAssign01;
 
 public class A1SAQ4 {
 	int dd;
@@ -27,3 +27,4 @@ public class A1SAQ4 {
 		date2.display();
 }
 }
+
