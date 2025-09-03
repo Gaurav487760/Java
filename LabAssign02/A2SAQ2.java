@@ -1,4 +1,4 @@
-package Inheritance;
+package LabAssign02;
 import java.util.Scanner;
 import Series.Fibonacci;
 import Series.Cube;
@@ -20,3 +20,4 @@ public class A2SAQ2 {
 
 	    }
 	}
+
