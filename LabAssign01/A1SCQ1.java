@@ -1,4 +1,4 @@
-package LabAssign01.java;
+package LabAssign01;
 import java.util.Scanner;
 
 class MyDate {
@@ -82,3 +82,4 @@ public class A1SCQ1 {
         }
     }
 }
+
