@@ -1,4 +1,4 @@
-package Inheritance;
+package LabAssign02;
 import java.util.Scanner;
 import utility.CapitalString;
 public class A2SAQ4 {
@@ -16,3 +16,4 @@ public class A2SAQ4 {
         sc.close();
     }
 }
+
