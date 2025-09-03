@@ -1,4 +1,4 @@
-package Inheritance;
+package LabAssign02;
 	import java.util.Scanner;
 	class Employee {
 	    int id;
@@ -69,3 +69,4 @@ package Inheritance;
 	        sc.close();
 	    }
 	}
+
