@@ -1,4 +1,4 @@
-package Inheritance;
+package LabAssign02;
 	import java.util.*;
 	abstract class Staff {
 	    protected String name;
@@ -101,3 +101,4 @@ package Inheritance;
 	        sc.close();
 	    }
 	}
+
