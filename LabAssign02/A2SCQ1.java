@@ -1,4 +1,4 @@
-package Inheritance;
+package LabAssign02;
 import java.util.Scanner;
 	interface CreditCardInterface {
 	    void viewCreditAmount();
@@ -84,3 +84,4 @@ import java.util.Scanner;
 		        gold.viewCreditAmount();
 		    }
 		}
+
