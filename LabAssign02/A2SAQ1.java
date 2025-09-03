@@ -1,4 +1,4 @@
-package Inheritance;
+package LabAssign02;
 	public class A2SAQ1 {
 	    class Point {
 	        protected int x, y;
@@ -47,3 +47,4 @@ package Inheritance;
 	        p3d.display();
 	    }
 	}
+
