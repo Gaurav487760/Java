@@ -1,4 +1,4 @@
-package Inheritance;
+package LabAssign02;
 	interface Operation {
 	    double PI = 3.142;
 	    void area();
@@ -45,3 +45,4 @@ package Inheritance;
 	        cy.volume();
 	    }
 	}
+
