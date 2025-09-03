@@ -1,4 +1,4 @@
-package LabAssign01.java;
+package LabAssign01;
 import java.io.*;
 import java.util.Scanner;
 public class A1SAQ1 {
@@ -15,3 +15,4 @@ public class A1SAQ1 {
 	}
 
 }
+
