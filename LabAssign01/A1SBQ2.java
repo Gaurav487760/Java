@@ -1,4 +1,4 @@
-package LabAssign01.java;
+package LabAssign01;
 import java.util.Scanner;
 
 class Employee {
@@ -35,3 +35,4 @@ public class A1SBQ2 {
         }
     }
 }
+
