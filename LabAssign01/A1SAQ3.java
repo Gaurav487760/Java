@@ -1,4 +1,4 @@
-package LabAssign01.java;
+package LabAssign01;
 import java.util.Arrays;
 import java.util.Scanner;
 public class A1SAQ3 {
@@ -30,4 +30,5 @@ public class A1SAQ3 {
 	        System.out.println("\n\nSum of array elements: " + sum);
 	    }
 	}
+
 
