@@ -1,4 +1,4 @@
-package LabAssign01.java;
+package LabAssign01;
 
 public class A1SAQ2 {
 	 public static void main(String[] args) {
@@ -23,3 +23,4 @@ public class A1SAQ2 {
 	        System.out.println("Reversed number: " + reversed);
 	    }
 }
+
